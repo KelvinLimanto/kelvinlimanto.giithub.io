@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wooden Monitor Stand"
-date:   2019-06-15 15:27:09 -0400
+date:   2019-06-15 13:29:09 -0400
 categories: Posts
 ---
 ![wooden stand on desk with monitors attached image](/img/monitor_stand_ontable.jpg)
@@ -42,7 +42,6 @@ Glueing everything together went without a problem. Sanding down the entire moni
 
 As relaxing as sanding was, nothing will compare to the feeling of seeing the piece I had been working on for the past couple of days be covered in polyurethane coating. I choose an oil-based polyurethane coating to bring out the color and last practically forever. I already thought the uncoated wood looked good, but I was not ready for the insane color change oil-based poly brings to the table. I applied and sanded several layers of poly to get a nice and even matte finish. 
 
-If you want to make this for yourself, I'm attaching a grabcad link of the cad file here: 
-https://grabcad.com/library/wooden-monitor-stand-base-1
+If you want to make this for yourself, I'm attaching a grabcad link of the cad file [here.](https://grabcad.com/library/wooden-monitor-stand-base-1)
 
 Overall the wood monitor stand project was a success. I test loaded the stand up with 90lb overnight to see if it would warp or crack under the weight before attaching my actual monitors and it passed. A safety factor of 2 is plenty enough for this design. I personally think the design looks unique with the mineral stained poplar and dark walnut accents. The extra time cutting the support ribs and slots was well worth it.
