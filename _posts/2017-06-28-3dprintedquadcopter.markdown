@@ -4,6 +4,7 @@ title:  "3D Printed FPV Quadcopter"
 date:   2017-06-28 13:14:09 -0400
 categories: Posts
 ---
+
 ![quadcopter rendered image](/img/quadcopter_render.jpg)
 
 Ever get access to a new tool or machine and wish to use it for everything? Well that was the situation I found myself in when I got my 3d printer. Now for the project, my thought process went something like this; yes, things that fly are cool...but no, I’ve never designed anything that flies before...but yes, how cool would it be to make something that flies...but no, I know nowhere near enough about airplanes or helicopters to design one...but yes, maybe quadcopters aren't that hard. I decided to dip my toes into the world of FPV (first-person-view) quadcopter building and flying. 
@@ -20,7 +21,7 @@ After waiting for what seemed like my entire summer break, my electronics from C
 
 I decided to go with a modular hybrid-x frame shape design. Most fpv quadcopter frames are made of lightweight and strong, but expensive carbon fiber. I did not want to get a carbon fiber frame that would cost more than all my electronics combined, so I had to design around the disadvantages of 3d printed pla plastic. Unfortunately my 3d printer is unable to print stronger abs material, so I was stuck with pla. Since pla is much less stiff than carbon fiber, I had to thicken all of the plates to get close to the overall frame stiffness. Pla is also much less impact resistant than carbon fiber, so I had to design with the intention of making it easy to replace any broken plates. 
 
-![quadcopter bottom image](/img/quadcopter_bottom.jpg)
+![quadcopter bottom image](/img/quadcopter_bottomfix.jpg)
 
 Crashing while learning how to pilot an fpv quadcopter is practically inevitable. I determined that the most likely part to break are the arms, since they will experience the most force from the impact of crashing. Hence the modularity designed into the frame makes it possible to swap the arms out in the event of a crash without taking apart the entire quadcopter. I think that the slight increase in weight from the modular hardware is worth it for saving time on repairs. With the frame nearly complete, the last step is to determine cable routes and place cable tie down points. Cable routing and tie down points are extremely important since fast spinning blades are literally millimeters away from some cables.
 
@@ -28,6 +29,6 @@ Crashing while learning how to pilot an fpv quadcopter is practically inevitable
 
 After my first crash into a tree about a couple minutes into flying, the arm broke exactly where I had thought the point of failure would be. One of my propeller blades was bent, so I determined that the front left propeller hit the tree transmitting the force through the motor to the arm, breaking it. Luckily it was simple enough to print another arm and replace it. I also had spare propellers, so the fix was quick and painless. Unfortunately the fpv transmitter antenna snapped off the module possibly from when the quadcopter made contact with the ground and I was unable to use the fpv feature for a while.
 
-![quadcopter close up image](/img/quadcopter_closeup.jpg)
+![quadcopter close up image](/img/quadcopter_closeupfix.jpg)
 
 In the end I was able to design and build my first controllable flying object. I learned how to use a soldering iron for the first time and how to set up a flight controller. A future upgraded design would have a stiffer frame geometry for more precise control, an adjustable angle fpv camera mount, a hot swappable battery slot, and possibly a gopro mount.
