@@ -4,7 +4,7 @@ title:  "Keyboard Carry Cover"
 date:   2020-09-08 15:27:09 -0400
 categories: Posts
 ---
-![cover picture image](/img/kcover_picture.jpg)
+![cover picture image](/img/kcover_pic.jpg)
 
 I move between my apartment near university and my parents' home often. One of the few things that I always bring with me back and forth is my compact mechanical keyboard. Usually I just wrap a shirt or jacket over the keyboard and throw it in my backpack, but I need something a little fancier. I found a nice piece of hard maple in my garage the perfect size and decided to make it into my new keyboard carry cover. 
 
@@ -31,3 +31,4 @@ The underside of the keyboard carry cover with the elastic straps attached. Simp
 ![cover top image](/img/kcover_top.jpg)
 
 Accessories such as cables or connectors can be held down with the extra elastic straps on the top. I’m not too worried about not covering the bottom of the keyboard because it's made of thick powder-coated aluminum plates, but it is nice knowing that the more fragile switches and keycaps are safe inside my backpack when traveling. Overall this project was a good brush up of cad and cam skills. 
+
