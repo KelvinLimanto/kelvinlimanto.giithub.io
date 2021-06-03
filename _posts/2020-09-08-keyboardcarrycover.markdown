@@ -4,7 +4,7 @@ title:  "Keyboard Carry Cover"
 date:   2020-09-08 15:27:09 -0400
 categories: Posts
 ---
-![cover picture image](/img/kcover_pic.jpg)
+![cover picture image](/img/kcover_pic.JPG)
 
 I move between my apartment near university and my parents' home often. One of the few things that I always bring with me back and forth is my compact mechanical keyboard. Usually I just wrap a shirt or jacket over the keyboard and throw it in my backpack, but I need something a little fancier. I found a nice piece of hard maple in my garage the perfect size and decided to make it into my new keyboard carry cover. 
 
