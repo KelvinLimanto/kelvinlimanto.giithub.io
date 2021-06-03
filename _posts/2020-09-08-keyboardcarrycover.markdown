@@ -16,11 +16,11 @@ After taking a few measurements of my keyboard and creating a simple cad model i
 
 Off to the cnc router, I secured the maple blank with a couple countersunk screws and ran the job. It's always fun to see the cnc router aggressively attack wood. (yes, I know the wrong endmill is attached.) 
 
-![cover bottom image](/img/kcover_bottom.jpg)
+![cover bottom image](/img/kcover_bottom.JPG)
 
 A couple rough edges were left near the ends of the grain by the cnc router, but it wasn’t too much to remove for some sand paper. The pocketing passes took some time. 
 
-![cover strap materials image](/img/kcover_straps.jpg)
+![cover strap materials image](/img/kcover_straps.JPG)
 
 Next is my unique take on the humble keyboard cover and that is to add some elastic band to secure it to the keyboard and secure accessories. One inch black elastic band contrasts with the light color of the hard maple. My first idea was to glue the bands to the back through the holes, but I decided sewing the straps together would be more durable. 
 
