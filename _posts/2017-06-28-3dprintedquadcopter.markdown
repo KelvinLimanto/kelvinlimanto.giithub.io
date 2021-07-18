@@ -6,7 +6,7 @@ categories: Posts
 ---
 ![quadcopter rendered image](/img/quadcopter_render.jpg)
 
-Ever get access to a new tool or machine and wish to use it for everything? Well that was the situation I found myself in when I got my 3d printer. Now for the project, my thought process went something like this; yes, things that fly are cool...but no, I’ve never designed anything that flies before...but yes, how cool would it be to make something that flies...but no, I know nowhere near enough about airplanes or helicopters to design one...but yes, maybe quadcopters aren't that hard. I decided to dip my toes into the world of FPV (first-person-view) quadcopter building and flying. 
+Ever get access to a new tool or machine and wish to use it for everything? Well that was the situation I found myself in when I got my 3d printer. I wanted to build something that flies, but I’ve never designed anything like an RC plane or quadcopter before. I found a nice tutorial online for electronics, but I was going to be all on my own for mechanical design. Since quadcopters are significantly simpler than helicopters in terms of mechanical design, I decided to dip my toes into the world of FPV (first-person-view) quadcopter building and flying.
 
 Most people have the common misconception that flying quadcopters can be expensive and dangerous. However, for the cost, it wasn’t much because I made the gamble of trusting a sketchy chinese website to ship over some electronics by sea. As for safety, I just had to trust in my soldering abilities and try to remember safe lipo-battery protocol to make sure nothing catches fire or explodes or hurts anyone. Strapping a high power density battery to a flying bundle of hand soldered wires and questionable electronics with sharp blades spinning millimeters away at a couple thousand rpm…*ahhhh the smell of safety*.
 
@@ -31,3 +31,7 @@ After my first crash into a tree about a couple minutes into flying, the arm bro
 ![quadcopter close up image](/img/quadcopter_closeupfix.jpg)
 
 In the end I was able to design and build my first controllable flying object. I learned how to use a soldering iron for the first time and how to set up a flight controller. A future upgraded design would have a stiffer frame geometry for more precise control, an adjustable angle fpv camera mount, a hot swappable battery slot, and possibly a gopro mount.
+
+**Skills Enhanced**
+- CAD (PTC Creo Paramtric)
+- 3D Printing

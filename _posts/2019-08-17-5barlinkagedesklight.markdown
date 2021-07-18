@@ -31,3 +31,7 @@ The base that attaches the lamp to the monitor stand consists of a couple blocks
 After finishing the build and testing the linkage for the first time in real life, I discovered that the linkage has a balancing point near its midpoint travel position. I had originally intended for the lamp to rest at only the fully retracted and extended position, but I like this mid point position for if I am really focused and sitting closer to my monitors. 
 
 I am extremely satisfied with this project and how it turned out to be a useful piece of technology. This project shows that there are many ways to make something as simple as a desk lamp. A future upgrade to this desk lamp is to add a motorized retract and extend feature with the click of a button. 
+
+**Skills Enhanced**
+- CAD (PTC Creo Parametric)
+- Linkage Design Simulator

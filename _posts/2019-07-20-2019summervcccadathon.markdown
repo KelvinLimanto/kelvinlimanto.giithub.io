@@ -27,3 +27,7 @@ Directly behind the intake mechanism is the turret assembly which spans the enti
 The end game mechanism shares two motors with the intake mechanism through a one-way-bearing power share gearbox. Both the climbing mechanism and partner “forklift” are sprung outwards and released by a servo. When the power share motors rotate in one direction, the intake is run and when the power share motors rotate in the opposite direction, the climbing mechanism is winched down to raise the robot.
 
 Since I had a longer time limit to spend on this robot design with five days instead of three days to do everything, I took my time and made sure each part was refined. I scored **second** place overall out of about 60 submissions. I had a lot of fun designing this robot and thought it was a couple days well spent.
+
+**Skills Enhanced**
+- CAD (PTC Creo Paramtric)
+- Rendering (Keyshot)

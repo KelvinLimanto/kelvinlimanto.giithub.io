@@ -25,3 +25,7 @@ The elevator lift subassembly consists of rectangular tubes on bearing rollers p
 The disc manipulator consists of two parts: the lower section directly attached to the drivetrain frame and the upper section attached to the end of the swing arm. The lower section of the disc manipulator is responsible for collecting discs from the ground. The end of the lower section intake takes up the entire width of the robot to make it as easy as possible to pick up discs. The upper section of the disc manipulator can either take discs from the lower section when picking up discs from the floor or take discs directly from the wall deposit slots. Since the upper disc manipulator is attached to the end of the swing arm attached to the last stage of the elevator lift, it can rise up to above the scoring board to deposit the discs. 
 
 After 72 hours of hard work with very little sleep, I placed **third place** overall. I’m not sure how many teams actually submitted a robot design, but I do know that at least 200 people registered for the competition. While this challenge was some of the most intense designing I’ve ever done in such a short period of time, I learned a lot about my own capabilities.
+
+**Skills Enhanced**
+- CAD (PTC Creo Paramtric)
+- Rendering (Keyshot)

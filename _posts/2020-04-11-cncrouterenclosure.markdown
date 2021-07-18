@@ -27,3 +27,7 @@ I attached the gas springs in the perfect position to hold the door open at any 
 ![Closing Image](/img/cncenc_5.jpg)
 
 This CNC router build was enjoyable and it was nice to see it all come together. I think this CNC router setup will be an important prototyping and manufacturing tool for the students. 
+
+**Skills Enhanced**
+- CAD (PTC Creo Paramtric)
+- Wood Working

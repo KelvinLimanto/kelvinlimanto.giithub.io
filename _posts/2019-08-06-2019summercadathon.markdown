@@ -27,3 +27,7 @@ At the rear of the robot is the end game mechanism. Two clamps grip the descendi
 ![Robot Sorting Balls Render](/img/2019sumcad_3.png)
 
 After panic rendering my robot design on three separate computers just to submit on time, I ranked 3rd place again. However there were more participants in this CADathon than previous CADathons. 
+
+**Skills Enhanced**
+- CAD (PTC Creo Paramtric)
+- Rendering (Keyshot)

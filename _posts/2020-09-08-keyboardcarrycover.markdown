@@ -32,3 +32,6 @@ The underside of the keyboard carry cover with the elastic straps attached. Simp
 
 Accessories such as cables or connectors can be held down with the extra elastic straps on the top. I’m not too worried about not covering the bottom of the keyboard because it's made of thick powder-coated aluminum plates, but it is nice knowing that the more fragile switches and keycaps are safe inside my backpack when traveling. Overall this project was a good brush up of cad and cam skills. 
 
+**Skills Enhanced**
+- CAD (PTC Creo Parametric)
+- CAM (Fusion 360)
