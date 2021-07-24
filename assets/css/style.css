@@ -6,20 +6,24 @@
 
 .post-excerpt {
     display: flex;
+    padding-bottom: 30px;
 }
 
 .post-excerpt-image {
     width: 62%;
+    padding-left: 50px;
+    padding-top: 10px;
 }
 
 .post-excerpt-text {
-    padding-left: 2em;
     width: 38%;
+    text-align:left;
+    color:#026670;
+    font-family: Helvetica, sans-serif;
 }
 
-.post-excerpt-text a, .post-title {
+.post-title{
     color:#026670;
-    text-decoration: none;
     font-family: Helvetica, sans-serif;
 }
 
@@ -29,7 +33,7 @@
     padding-bottom: 1.5em;
 }
 
-.post-meta {
+.post-meta{
     color:#aaaaaa;
 }
 
@@ -37,7 +41,7 @@
     color:#026670;
     font-family: Helvetica, sans-serif;
     font-size: 20px;
-    letter-spacing: 2px; 
+    letter-spacing: 2px;
 }
 
 .site-title, .page-link, .post-content, .post-content a{
