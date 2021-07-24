@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Hello, welcome to my website. Feel free to take your time and check out some of my past projects. 
+<h1> Projects </h1>

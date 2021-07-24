@@ -3,6 +3,8 @@ layout: post
 title:  "Electric Skateboard V1"
 date:   2020-06-27 13:51:09 -0400
 categories: Posts
+image: /img/esk8v1_2.jpg
+excerpt: After a few months indoors in quarantine, I wanted to start a new project and hobby. I knew that I wanted to build an electric vehicle that I could ride on and use around campus. My two options were to build an electric bike or electric skateboard. I can already ride a bike, but I can’t even...
 ---
 ![Longboard Cover Image](/img/esk8v1_2.jpg)
 

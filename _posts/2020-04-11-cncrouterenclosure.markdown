@@ -3,10 +3,12 @@ layout: post
 title:  "CNC Router Enclosure"
 date:   2020-04-11 12:10:09 -0400
 categories: Posts
+image: /img/cncenc_1.jpg
+excerpt: My former robotics team got a new CNC router and I suggested for them to get an enclosure to reduce noise and mess. I couldn’t find a good CNC router enclosure at a decent price, so I decided to design and build one for them. I had a couple design requirements...
 ---
 ![Cover Image](/img/cncenc_1.jpg)
 
-My former robotics team got a new CNC router and I suggested for them to get an enclosure to reduce noise and mess. I couldn’t find a good CNC router enclosure at a decent price, so I decided to design and build one for them. I had a couple design requirements going into this design. Firstly, I had to make the smallest enclosure possible while still providing space inside for the CNC router to move around unrestricted. There isn’t much space available at their robotics workspace, so it would make sense for the door to open upwards and not outwards. Secondly, I had to make the enclosure easy to open and close while still providing a good seal to keep in sound and dust. Lastly, I had to make all of the parts in this enclosure with just a circular saw, because that is the only wood cutting tool I have at home. With all of those design constraints, let's get into the design!
+My former robotics team got a new CNC router and I suggested for them to get an enclosure to reduce noise and mess. I couldn’t find a good CNC router enclosure at a decent price, so I decided to design and build one for them. I had a couple design requirements going into this design. Firstly, I had to make the smallest enclosure possible while still providing space inside for the CNC router to move around unrestricted. There isn’t much space available at their robotics workspace, so it would make sense for the door to open upwards and not outwards. Secondly, I had to make the enclosure easy to open and close while still providing a good seal to keep in sound and dust. Lastly, I had to make all of the parts in this enclosure with just a hand-held circular saw, because that is the only wood cutting tool I have at home. With all of those design constraints, let's get into the design!
 
 ![CAD Screenshot](/img/cncenc_6.jpg)
 

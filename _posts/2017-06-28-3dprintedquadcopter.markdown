@@ -3,6 +3,8 @@ layout: post
 title:  "3D Printed FPV Quadcopter"
 date:   2017-06-28 13:14:09 -0400
 categories: Posts
+image: /img/quadcopter_render.jpg
+excerpt: Ever get access to a new tool or machine and wish to use it for everything? Well that was the situation I found myself in when I got my 3d printer. I wanted to build something that flies, but I’ve never...
 ---
 ![quadcopter rendered image](/img/quadcopter_render.jpg)
 

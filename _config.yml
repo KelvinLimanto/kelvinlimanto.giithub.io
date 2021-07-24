@@ -21,11 +21,11 @@
 title: Kelvin Limanto
 email: kelvinlimanto@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A collection of stuff I've designed and made.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: ke.lvinnn
 linkedin_username: kelvinlimanto
+show_excerpts: true
 
 # Build settings
 theme: minima

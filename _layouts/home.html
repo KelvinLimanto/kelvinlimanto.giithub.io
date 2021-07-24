@@ -1,13 +1,11 @@
 ---
 layout: default
 ---
-<div class="home home2" >
+<div class="home" >
+  <div class="home-text">{{ content }}</div>
+
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-
-  {{ content }}
-
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
@@ -26,12 +24,16 @@ layout: default
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
+          <div class= "post-link"> <a href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
-          </a>
+          </a> </div>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+        <div class="post-excerpt">
+
+          <div class= "post-excerpt-image"> <a href= "{{post.url}}"><img src ="{{post.image}}"/></a></div>
+          <div class= "post-excerpt-text"> <a href= "{{post.url}}" > {{post.excerpt}} </a> </div>
+        </div>
         {%- endif -%}
       </li>
       {%- endfor -%}

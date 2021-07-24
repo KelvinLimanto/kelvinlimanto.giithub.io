@@ -3,8 +3,9 @@ layout: post
 title:  "Electric Longboard V2"
 date:   2021-01-22 13:44:09 -0400
 categories: Posts
+image: /img/esk8_v2_cover.jpg
+excerpt: I’ve gotten hooked on electric skateboarding. To go to class, to get food, to get groceries, to meet up with friends, I find myself grabbing my electric skateboard almost every single time. After a couple months using my first e-board, it’s time for a total upgrade. There is this immense hill in the middle of... 
 ---
-
 ![Longboard Cover Image](/img/esk8v2_1.jpg)
 
 I’ve gotten hooked on electric skateboarding. To go to class, to get food, to get groceries, to meet up with friends, I find myself grabbing my electric skateboard almost every single time. After a couple months using my first e-board, it’s time for a total upgrade. There is this immense hill in the middle of campus that my first e-board struggles to get up. I also wouldn’t trust the single motor setup on my first board to brake the entire way down without failing. With no redundancy in the system, if the belt loses tension, motor controller overheats, or battery regen overloads, the brakes will fail and I will most likely fall. My first eboard was focused on budget and portability, but my second eboard will focus on performance, comfort and reliability. 
