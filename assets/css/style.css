@@ -34,17 +34,31 @@
 }
 
 .post-link a {
-    color:#116466;
+    color:#026670;
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    letter-spacing: 2px; 
 }
 
-.site-title, .page-link, .post-content a{
+.site-title, .page-link, .post-content, .post-content a{
     color: #026670 !important;
     font-family: Helvetica, sans-serif;
 }
 
 .site-title { 
-    font-size: 3em;
+    font-size: 50px;
+    letter-spacing: 5px;
     font-weight: bold;
+}
+
+.page-link { 
+    font-size: 18px;
+    letter-spacing: 1.8px;
+}
+
+.home-text, .post-title{
+    font-size: 30px;
+    letter-spacing: 3px;   
 }
 
 .footer-heading{

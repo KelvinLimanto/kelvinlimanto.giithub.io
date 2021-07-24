@@ -4,4 +4,4 @@
 
 layout: home
 ---
-<h1> Projects </h1>
+Projects
