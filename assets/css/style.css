@@ -1,6 +1,9 @@
+body{
+    font-family: Helvetica, sans-serif;
+}
+
 .home-text{
     color:#026670;
-    font-family: Helvetica, sans-serif;
     font-size: 1.25em;
 }
 
@@ -19,12 +22,10 @@
     width: 38%;
     text-align:left;
     color:#026670;
-    font-family: Helvetica, sans-serif;
 }
 
 .post-title{
     color:#026670;
-    font-family: Helvetica, sans-serif;
 }
 
 .site-header { 
@@ -39,14 +40,12 @@
 
 .post-link a {
     color:#026670;
-    font-family: Helvetica, sans-serif;
     font-size: 20px;
     letter-spacing: 2px;
 }
 
 .site-title, .page-link, .post-content, .post-content a{
     color: #026670 !important;
-    font-family: Helvetica, sans-serif;
 }
 
 .site-title { 
@@ -68,5 +67,29 @@
 .footer-heading{
     color: #ffffff;
     font-family: Helvetica, sans-serif;
+
+}
+
+.page-content{
+    margin:0px !important;
+}
+
+.wrapper{
+    max-width: calc(900px - (30px * 2));
+}
+
+@media (max-width: 640px) {
+    .post-excerpt {
+        flex-direction: column-reverse;
+    }
+
+    .post-excerpt-text {
+        width: 100%;
+    }
+
+    .post-excerpt-image{
+        width: 100%;
+        padding: 0px;
+    }
 
 }

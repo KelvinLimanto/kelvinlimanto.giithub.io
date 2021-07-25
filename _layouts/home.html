@@ -31,7 +31,9 @@ layout: default
               </a> </div>
               <span class="post-meta">{{ post.date | date: date_format }}</span>
             </h3>
-             {{post.excerpt}} </a> </div>
+             {{post.excerpt}} 
+            <a href="{{ post.url | relative_url }}"> Read more </a>
+            </div>
           <div class= "post-excerpt-image"> <a href= "{{post.url}}"><img src ="{{post.image}}"/></a></div>
         </div>
         {%- endif -%}
