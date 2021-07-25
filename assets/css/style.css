@@ -59,9 +59,13 @@ body{
     letter-spacing: 1.8px;
 }
 
-.home-text, .post-title{
+.home-text, .post-title, h1{
     font-size: 30px;
     letter-spacing: 3px;   
+}
+
+h1 {
+    color:#026670;
 }
 
 .footer-heading{
@@ -78,6 +82,15 @@ body{
     max-width: calc(900px - (30px * 2));
 }
 
+.gallery-box{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gallery-image{
+    width: 50%;
+}
+
 @media (max-width: 640px) {
     .post-excerpt {
         flex-direction: column-reverse;
@@ -90,6 +103,10 @@ body{
     .post-excerpt-image{
         width: 100%;
         padding: 0px;
+    }
+
+    .gallery-image{
+        width: 100%;
     }
 
 }
