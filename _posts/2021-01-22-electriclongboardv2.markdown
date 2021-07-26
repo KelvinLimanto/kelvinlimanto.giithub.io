@@ -4,7 +4,7 @@ title:  "Electric Longboard V2"
 date:   2021-01-22 13:44:09 -0400
 categories: Posts
 image: /img/esk8_v2_cover.jpg
-excerpt: I’ve gotten hooked on electric skateboarding. To go to class, to get food, to get groceries, to meet up with friends, I find myself grabbing my electric skateboard almost every single time. After a couple months using my first e-board, it’s time for a total upgrade. There is this immense hill in the middle of...
+excerpt: I’ve gotten hooked on electric skateboarding. To go to class, to get food, to get groceries, to meet up with friends, I find myself grabbing my electric skateboard almost every single time. After a couple months... 
 ---
 ![Longboard Cover Image](/img/esk8v2_1.jpg)
 

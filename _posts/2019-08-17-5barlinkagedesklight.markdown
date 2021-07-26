@@ -4,7 +4,7 @@ title:  "5-Bar Linkage Desk Light"
 date:   2019-08-17 15:15:09 -0400
 categories: Posts
 image: /img/5bar_1.jpg
-excerpt: In a few days I will move into my new dorm room on campus for the first time. I’m planning on bringing my desktop computer with my new monitor stand and two monitors. I did notice in an earlier tour of the dorm that the single ceiling light isn’t that bright and... 
+excerpt: In a few days I will move into my new dorm room on campus for the first time. I’m planning on bringing my desktop computer with my new monitor stand and two monitors. I did notice in an earlier tour of the dorm... 
 ---
 ![Cover Image](/img/5bar_1.jpg)
 

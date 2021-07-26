@@ -4,7 +4,7 @@ title:  "Wooden Monitor Stand Base"
 date:   2019-06-15 13:29:09 -0400
 categories: Posts
 image: /img/monitor_stand_ontable.jpg
-excerpt: With only a few more weeks of access to the woodshop, I decided to do a project that would test all of my wood working skills. The old monitor stand base made out of recycled shelf *mystery* wood was starting to warp under the hefty 50lb triple monitor arm setup...
+excerpt: With only a few more weeks of access to the woodshop, I decided to do a project that would test all of my wood working skills. The old monitor stand base made out of recycled shelf *mystery* wood...
 ---
 ![wooden stand on desk with monitors attached image](/img/monitor_stand_ontable.jpg)
 

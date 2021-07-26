@@ -4,7 +4,7 @@ title:  "CNC Router Enclosure"
 date:   2020-04-11 12:10:09 -0400
 categories: Posts
 image: /img/cncenc_1.jpg
-excerpt: My former robotics team got a new CNC router and I suggested for them to get an enclosure to reduce noise and mess. I couldn’t find a good CNC router enclosure at a decent price, so I decided to design and build one for them. I had a couple design requirements...
+excerpt: My former robotics team got a new CNC router and I suggested for them to get an enclosure to reduce noise and mess. I couldn’t find a good CNC router enclosure at a decent price, so I decided to design and build...
 ---
 ![Cover Image](/img/cncenc_1.jpg)
 

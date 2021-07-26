@@ -4,7 +4,7 @@ title:  "2018 Summer F4 CADathon"
 date:   2018-08-08 12:22:10 -0400
 categories: Posts
 image: /img/2018cad_1.jpg
-excerpt: This is my submission to the 5th Bi-annual CADathon hosted by F4. My robot was designed to FIRST Robotics Competition (FRC) rules and specifications to play in a virtual competition. Teams made of one to three designers...
+excerpt: This is my submission to the 5th Bi-annual CADathon hosted by F4. My robot was designed to FIRST Robotics Competition (FRC) rules and specifications to play in a virtual competition. Teams made of one to three...
 ---
 ![Cover Image](/img/2018cad_1.jpg)
 

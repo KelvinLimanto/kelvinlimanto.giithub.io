@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Projects
+Welcome to my website where I document a few of my fun projects and designs. Feel free to click on any of the images to read more. 
