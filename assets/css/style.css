@@ -3,7 +3,6 @@ body{
 }
 
 .site-header { 
-    background-color: #e1e5ec;
     padding-top: 15px;
     padding-bottom: 15px;
 }
@@ -31,9 +30,11 @@ body{
 .home-intro{ 
     font-size: 20px;
     text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
     padding-left: 100px;
     padding-right: 100px;
-    opacity: 0.75;
+    opacity: 0.6;
     transition-duration: 0.5s;
 }
 
@@ -64,7 +65,7 @@ body{
 
 .post-excerpt-right, .post-excerpt-left {
     justify-content:space-between;
-    opacity: 0.75;
+    opacity: 0.9;
     transition-duration: 0.5s;
 }
 
@@ -82,14 +83,14 @@ body{
 }
 
 .post-excerpt-image-right {
-    width: 50%;
+    width: 55%;
     padding-top: 10px;
     padding-left: 35px;
     transition-duration: 0.5s;
 }
 
 .post-excerpt-image-left {
-    width: 50%;
+    width: 55%;
     padding-top: 10px;
     padding-right: 30px;
     transition-duration: 0.5s;
@@ -122,16 +123,16 @@ body{
     font-size: 20px;
 }
 
-.post-content, .post-content a, .post-excerpt-text, .home-intro {
+.post-excerpt-text, .home-intro {
     color:#303030;
 }
 
 h1, .home-text, .post-title, .post-link a {
-    color:#026670;
+    color:#4b7279;
 }
 
 .site-title, .page-link{
-    color: #026670 !important;
+    color: #4b7279 !important;
 }
 
 .post-meta{ 
@@ -147,15 +148,15 @@ h1, .home-text, .post-title, .post-link a {
 }
 
 .gallery-image{
-    width: 40%;
+    width: 45%;
     padding: 15px;
     opacity: 0.9;
-    transition-duration: 0.5s;
+    transition-duration: 0.25s;
 }
 
 .gallery-image:hover {
     width: 48%;
-    padding: 2px;
+    padding: 5px;
     opacity: 1.0;
     transition-duration: 0.25s;
 }
@@ -181,7 +182,7 @@ h1, .home-text, .post-title, .post-link a {
         transition-duration: 0.25s;
     }
 
-    .post-link {
+    .post-link a {
         font-size: 20px;
         transition-duration: 0.25s;
     }
@@ -220,6 +221,7 @@ h1, .home-text, .post-title, .post-link a {
 
     .home-intro{ 
         opacity: 1.0 !important;
+        font-size: 16px;
         padding-left: 0px;
         padding-right: 0px;
     }

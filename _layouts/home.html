@@ -38,11 +38,15 @@ layout: default
           {{post.excerpt}}
           <a href="{{ post.url | relative_url }}"> Continue Reading </a>
         </div>
-        <div class="post-excerpt-image-right"> <a href="{{post.url}}"><img src="{{post.image}}" /></a></div>
+        <div class="post-excerpt-image-right">
+        <div class="home-image"> <a href="{{post.url}}"><img src="{{post.image}}" /></a></div>
+      </div>
       </div>
         {%- else -%}
         <div class="post-excerpt-left">
-        <div class="post-excerpt-image-left"> <a href="{{post.url}}"><img src="{{post.image}}" /></a></div>
+        <div class="post-excerpt-image-left">
+        <div class="home-image"> <a href="{{post.url}}"><img src="{{post.image}}" /></a></div>
+        </div>
         <div class="post-excerpt-text">
           <h3>
             <div class="post-link"> <a href="{{ post.url | relative_url }}">
