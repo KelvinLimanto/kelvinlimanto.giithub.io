@@ -118,6 +118,11 @@ body{
     transition-duration: 0.5s;
 }
 
+.about-post-content {
+    font-size: 18px;
+    text-align: center;
+}
+
 .back-to-home {
     font-weight: bold;
     font-size: 20px;
@@ -217,6 +222,11 @@ h1, .home-text, .post-title, .post-link a {
     .site-title { 
         font-size: 35px;
         letter-spacing: 3.5px;
+    }
+
+    .post-title{
+        font-size: 26px;
+        transition-duration: 0.25s;
     }
 
     .home-intro{ 
