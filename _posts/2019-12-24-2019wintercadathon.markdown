@@ -4,7 +4,7 @@ title:  "2019 Winter F4 CADathon"
 date:   2019-12-24 20:15:28 -0400
 categories: Posts
 image: /img/2019wincad_3.jpg
-excerpt: This is my submission to the 8th bi-annual CADathon hosted by F4. Like the past F4 CADathons, my robot was designed to FIRST Robotics Competition (FRC) rules and specifications to play in a virtual competition... 
+excerpt: This is my submission to the 8th bi-annual CADathon hosted by F4. Like the past F4 CADathons, my robot was designed to FIRST Robotics Competition (FRC) rules and specifications to play in ... 
 ---
 ![Cover Image](/img/2019wincad_1.jpg)
 

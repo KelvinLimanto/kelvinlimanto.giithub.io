@@ -4,4 +4,4 @@ title: Resume
 permalink: /resume/
 ---
 
-*download link*
+*Available upon request*

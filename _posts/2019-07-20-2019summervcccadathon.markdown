@@ -4,7 +4,7 @@ title:  "2019 Valor Cad Competition"
 date:   2019-07-20 15:16:45 -0400
 categories: Posts
 image: /img/vccrender_1.jpg
-excerpt: This is my submission to the first Valor Cad Competition (VCC). This robot was designed to FIRST Tech Challenge (FTC) rules and specifications to play in a virtual game challenge. The layout of the challenge...
+excerpt: This is my submission to the first Valor Cad Competition (VCC). This robot was designed to FIRST Tech Challenge (FTC) rules and specifications to play in a virtual game challenge. The ...
 ---
 ![Cover Image](/img/vccrender_1.jpg)
 
